@@ -90,6 +90,7 @@ Finds line (slope and y-intercept OR slope and point) given two points.
 A program to plot the Mandelbrot Set Fractal pixel by pixel (very slow).
 
 ### MENU
+Currently Depreciated Menu of All Programs. May be updated later in the future.
 
 ### MOLRMASS
 Finds the molar mass of any compound given chemical formula. Prompts for a string of the chemical formula like "O2" or "C1O2". A number needs to be put after each element so H2O would be entered as "H2O1". Supports structural and molecular chemical formulas. Does not support parentheses.
@@ -107,6 +108,7 @@ Plots ogives and Analyzes their intersections based on x-axis or frequency. Can 
 Open-Source Release of classic game Pacman.
 
 ### PARAPONT
+Find last point of a parallelogram given the other 3 points.
 
 ### PED
 Calculates the Price Elasticity of Demand (PED). Can be used to calculate Price Elasticity of Supply (PES) using the same formula.
@@ -115,26 +117,34 @@ Calculates the Price Elasticity of Demand (PED). Can be used to calculate Price 
 Open-Source Release of Portal.
 
 ### PRMETEST
-
+Simple implementation of a Miller-Rabin Primality Algorithm (Limited).
 
 ### PRMNSTAT
+Simple program that displays the permutations formula and calculates a specific permuation(same result as nPr).
 
 ### PRPNDLN
+Find line perpendicular to a certain line (including horizontal and vertical lines).
 
 ### PYTHAGFN
+Finds leg or hypotenuse of a right triangle using Pythagorean Theorem.
 
 ### QUADFORM
-
+Calculate roots of a quadratic using quadratic formula.
 
 ### QUADTEST
+Classifies a quadrilateral based on vertices as Trapezoids, Parallelograms, Rhombuses, Rectangles, Squares, Isosceles Trapezoids, Kites, and Trapeziums.
 
 ### RADICAL
+Simplify a radical to a*sqrt(b) form and find its decimal value.
 
 ### REPLACE
+Helper Program to replace a substring in a string.
 
 ### RFLCPRTP
+Find Point reflected over a Line (not Horizontal or Vertical).
 
 ### RGHTSLVR
+Implementation of a Right Triangle Solver.
 
 ### SLOPE
 Finds slope between two points.
@@ -146,6 +156,7 @@ Open-Source Release of Snake. Gameplay is highly adjustable.
 Calculates the Volume and Surface Area of a Sphere.
 
 ### STATSREG
+Program to quickly fit a set of a data to an appropriate regression (linear, logarithmic, exponential, power).
 
 ### TIMER
 Open-Source Timer Program by Gavin Vogt. Precise to the nearest second.
@@ -154,10 +165,13 @@ Open-Source Timer Program by Gavin Vogt. Precise to the nearest second.
 Open-Source Release of "This is the Only Level" by Armor Games Inc.
 
 ### TRAPLEGD
+Finds base to base height of a trapezoid given vertices.
 
 ### TRISOLVE
+General Purpose Triangle Solver.
 
 ### TRITYPES
+Classifies Triangles based on Side Lengths. Checks whether shape is a triangle and whether it is acute, right, or obtuse.
 
 ### XYCRDNTS
 Get current X and Y values (equal to coordinates of line tracer in grapher if not reassigned).
@@ -166,5 +180,7 @@ Get current X and Y values (equal to coordinates of line tracer in grapher if no
 Calculates the Income Elasticity of Demand (YED) and identifies if the good is luxury, inferior, or necessity. Can be used to calculate Income Elasticity of Supply (YES) using the same formula.
 
 ### θALPHNUM
+Utility Program to turn a string character to a number (unfinished).
 
 ### θISNUM
+Utility Program to check if a string is numeric.
