@@ -152,6 +152,9 @@ Finds slope between two points.
 ### SNAKECE
 Open-Source Release of Snake. Gameplay is highly adjustable.
 
+### SNELLLAW
+A Simple Snell's Law Calculator. Enter 3 givens (2 Angles and 1 IoR OR 1 Angle and 2 IoRs) and returns unknown.
+
 ### SPHRVSF
 Calculates the Volume and Surface Area of a Sphere.
 
