@@ -70,6 +70,9 @@ Open-Source Release of Conway's Game of Life.
 ### IONIZTOL
 Finds the wavelength of light that has a certain ionization energy OR ionization energy of a certain wavelength of light. Shows Formulas and Units for calculations.
 
+### KAKBTOPH
+Finds the Ka or Kb of an acid or base given the pH or pOH OR the pH or pOH of an acid or base given the Ka or Kb. Also, reqires the initial molarity of the acid or base.
+
 ### LAWOFCOS
 Finds the missing angle or side in a Law of Cosines scenario.
 
