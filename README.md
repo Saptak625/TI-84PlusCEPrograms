@@ -98,6 +98,9 @@ Currently Depreciated Menu of All Programs. May be updated later in the future.
 ### MOLRMASS
 Finds the molar mass of any compound given chemical formula. Prompts for a string of the chemical formula like "O2" or "C1O2". A number needs to be put after each element so H2O would be entered as "H2O1". Supports structural and molecular chemical formulas. Does not support parentheses.
 
+### NUCLEAR
+Calculates the mass defect and energy released per reaction for fusion and fission reactions. Supports units like MeV and J. Operations can be combined together by using the various menus.
+
 ### NUCLTIDE
 Identifies whether RNA or DNA, Purine or Pyramidimine, and Nitrogenous Base (Adenine, Thymine, Uracil, Guanine, Cytosine).
 
