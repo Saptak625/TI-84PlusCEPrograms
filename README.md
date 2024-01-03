@@ -52,6 +52,9 @@ Finds element name, symbol, protons, neutrons, and electrons. Parameters: (# of 
 ### ELMTONUM
 Helper Program to get atomic number from element symbol.
 
+### EULER
+Performs Euler's Method on a differential equation. Requires initial condition and step size. Can be used to solve for any differential equation of the form dy/dx = f(x,y). Shows work for first 5 and last 5 steps.
+
 ### FACTORS
 Finds all factors of a number. Optimized to only check till sqrt(N).
 
